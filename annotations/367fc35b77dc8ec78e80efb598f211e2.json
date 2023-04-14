@@ -1,0 +1,121 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "cambridge",
+      "@type" : "oa:Tag",
+      "chars" : "cambridge"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Univerisity of Cambridge",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Univerisity of Cambridge</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/130765827",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-04-14T14:21:05",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1681482065625",
+    "dcterms:modified" : "2023-04-14T14:21:05",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://bron-t-e.github.io/trademark-book/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2914,4397,847,900"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2913.65103,4397.05369h423.43791v0h423.43791v450.17449v450.17449h-423.43791h-423.43791v-450.17449z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_13bacea6-a745-446f-ba88-1c4db247e7f6\" fill-opacity=\"0\" fill=\"#01bfff\" fill-rule=\"nonzero\" stroke=\"#01bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://173fb976-2675-473b-a7ee-f73a8e861417"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "fruit",
+      "@type" : "oa:Tag",
+      "chars" : "fruit"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "packaging",
+      "@type" : "oa:Tag",
+      "chars" : "packaging"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Fruit packaging",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Fruit packaging</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/130765827",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-04-14T14:18:59",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1681481939754",
+    "dcterms:modified" : "2023-04-14T14:18:59",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://bron-t-e.github.io/trademark-book/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=519,200,6467,2810"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M518.66742,200.04494h3233.7191v0h3233.7191v1405.21236v1405.21236h-3233.7191h-3233.7191v-1405.21236z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_283ef1aa-f7b1-41ff-97b0-637023b8ef88\" fill-opacity=\"0\" fill=\"#01bfff\" fill-rule=\"nonzero\" stroke=\"#01bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://173fb976-2675-473b-a7ee-f73a8e861417"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "book",
+      "@type" : "oa:Tag",
+      "chars" : "book"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Book series",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Book series</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/130765827",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-04-14T14:20:03",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1681482003699",
+    "dcterms:modified" : "2023-04-14T14:20:03",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://bron-t-e.github.io/trademark-book/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2825,3111,2528,1343"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2824.54913,3111.17457h1263.89769v0h1263.89769v671.42717v671.42717h-1263.89769h-1263.89769v-671.42717z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_3cd7d0d8-5ab4-4ec5-a69f-84db3bfa934e\" fill-opacity=\"0\" fill=\"#01bfff\" fill-rule=\"nonzero\" stroke=\"#01bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://173fb976-2675-473b-a7ee-f73a8e861417"
+    } ]
+  } ],
+  "@id" : "https://bron-t-e.github.io/trademark-book/annotations/367fc35b77dc8ec78e80efb598f211e2.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
