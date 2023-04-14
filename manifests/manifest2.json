@@ -1,0 +1,82 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://bron-t-e.github.io/trademark-book/manifests/manifest2.json",
+  "@type" : "sc:Manifest",
+  "label" : "1930s trademark logo scrapbook",
+  "metadata" : [ {
+    "label" : "Author",
+    "value" : "Unknown"
+  }, {
+    "label" : "Date",
+    "value" : "1930s"
+  } ],
+  "description" : [ {
+    "@value" : "This is a scrapbook of trademark logos from the 1930s by an unknown creator.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Copyright Bronte Lyster but released as Creative Commons",
+  "sequences" : [ {
+    "@id" : "http://322c62db-1478-49e5-a609-13253f819391",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "viewingHint" : "facing-pages",
+    "canvases" : [ {
+      "@id" : "http://278b67cc-0926-4e92-b08d-810b40bd0609",
+      "@type" : "sc:Canvas",
+      "label" : "A page from a 1930s scrapbook of trademark logos",
+      "height" : 9012,
+      "width" : 7628,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://a7ebc01c-d67f-42b3-92c7-97215250087a",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/trademarks_book_NA011019_15579/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/trademarks_book_NA011019_15579",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 9012,
+          "width" : 7628
+        },
+        "on" : "http://278b67cc-0926-4e92-b08d-810b40bd0609"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://173fb976-2675-473b-a7ee-f73a8e861417",
+      "@type" : "sc:Canvas",
+      "label" : "A page from a 1930s scrapbook of trademark logos",
+      "height" : 8991,
+      "width" : 7265,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://4bf8e979-6a98-4ef7-ad22-77edc831fe63",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/trademarks_book_NA011019_15580/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/trademarks_book_NA011019_15580",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 8991,
+          "width" : 7265
+        },
+        "on" : "http://173fb976-2675-473b-a7ee-f73a8e861417"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
