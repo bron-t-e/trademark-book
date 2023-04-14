@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://bron-t-e.github.io/trademark-book/annotations/367fc35b77dc8ec78e80efb598f211e2.json" ],
+  "@id" : "https://bron-t-e.github.io/trademark-book/annotations/collection.json",
+  "label" : "All annotations loaded in bron-t-e/trademark-book project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
