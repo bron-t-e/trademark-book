@@ -1,0 +1,13 @@
+{
+  "id" : "https://bron-t-e.github.io/trademark-book/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in bron-t-e/trademark-book project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://bron-t-e.github.io/trademark-book/manifests/manifest2.json",
+    "label" : "1930s trademark logo scrapbook"
+  } ]
+}
