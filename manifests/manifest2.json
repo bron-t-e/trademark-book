@@ -3,6 +3,11 @@
   "@id" : "https://bron-t-e.github.io/trademark-book/manifests/manifest2.json",
   "@type" : "sc:Manifest",
   "label" : "1930s trademark logo scrapbook",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/130765827/4d4be59bb81885618a651d2585db47bb/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ {
     "label" : "Author",
     "value" : "Unknown"
@@ -49,6 +54,11 @@
         },
         "on" : "http://278b67cc-0926-4e92-b08d-810b40bd0609"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://bron-t-e.github.io/trademark-book/annotations/f8ae9373e4e64415a5bd8494f078d157.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://173fb976-2675-473b-a7ee-f73a8e861417",
@@ -74,6 +84,11 @@
           "width" : 7265
         },
         "on" : "http://173fb976-2675-473b-a7ee-f73a8e861417"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://bron-t-e.github.io/trademark-book/annotations/367fc35b77dc8ec78e80efb598f211e2.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     } ]
